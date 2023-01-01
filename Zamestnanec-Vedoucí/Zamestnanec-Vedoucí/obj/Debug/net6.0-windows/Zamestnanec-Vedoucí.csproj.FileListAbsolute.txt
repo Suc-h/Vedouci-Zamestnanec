@@ -1,0 +1,17 @@
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec-Vedoucí.csproj.AssemblyReference.cache
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec_Vedoucí.Form1.resources
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec-Vedoucí.csproj.GenerateResource.cache
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec-Vedoucí.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec-Vedoucí.AssemblyInfoInputs.cache
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec-Vedoucí.AssemblyInfo.cs
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec-Vedoucí.csproj.CoreCompileInputs.cache
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\bin\Debug\net6.0-windows\Zamestnanec-Vedoucí.exe
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\bin\Debug\net6.0-windows\Zamestnanec-Vedoucí.deps.json
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\bin\Debug\net6.0-windows\Zamestnanec-Vedoucí.runtimeconfig.json
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\bin\Debug\net6.0-windows\Zamestnanec-Vedoucí.dll
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\bin\Debug\net6.0-windows\Zamestnanec-Vedoucí.pdb
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec-Vedoucí.dll
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\refint\Zamestnanec-Vedoucí.dll
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec-Vedoucí.pdb
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\Zamestnanec-Vedoucí.genruntimeconfig.cache
+C:\Users\fokus\Source\Repos\Vedouci-Zamestnanec\Zamestnanec-Vedoucí\Zamestnanec-Vedoucí\obj\Debug\net6.0-windows\ref\Zamestnanec-Vedoucí.dll

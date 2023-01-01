@@ -7,13 +7,22 @@ using System.Threading.Tasks;
 
 namespace Zamestnanec_Vedoucí
 {
-    abstract class Zamestnanec
+    class Zamestnanec
     {
         protected string jmeno;
         protected string prijmeni;
-        protected DateTime   datumNastupu;
+        protected DateTime datumNastupu;
         protected int hodinovaMzda;
         protected int odpracHodiny = 0;
+
+        public Zamestnanec(string jmeno, string prijmeni, DateTime datumNastupu, int hodinovaMzda)
+        {
+            this.jmeno = jmeno;
+            this.prijmeni = prijmeni;
+            this.datumNastupu = datumNastupu;
+            this.hodinovaMzda = hodinovaMzda;
+        }
+
         public int HodinaMzda
         {
             get
@@ -30,16 +39,18 @@ namespace Zamestnanec_Vedoucí
         public virtual void OdpracujHodiny(int hodiny)
         {
             odpracHodiny = odpracHodiny + hodiny;
+
         }
         public virtual string VypoctiMzdu()
         {
             int mzda = hodinovaMzda * odpracHodiny;
+            odpracHodiny = 0;
             return "" + mzda;
         }
 
         public override string? ToString()
         {
-            return "Zaměstnanec: " + jmeno + prijmeni + "\nkterý nastoupil: " + datumNastupu + "\ns mzdou na hodinu: " + hodinovaMzda + "\nodpracovanými hodinami: " + odpracHodiny;
+            return "Zaměstnanec: " + jmeno+" " + prijmeni + "\nkterý nastoupil: " + datumNastupu + "\ns mzdou na hodinu: " + hodinovaMzda + " kč" + "\nodpracovanými hodinami: " + odpracHodiny;
                 }
     }
 }
